@@ -1,0 +1,41 @@
+p {
+  color: deeppink;
+}
+
+h1 {
+  font-weight: bold;
+  color: dodgerblue;
+  text-shadow: -4px 4px gold;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: gold; /* Specify the color for the underline */
+}
+
+h2 {
+  color: cyan;
+  text-shadow: -3px 3px white;
+}
+
+li {
+  color: aquamarine;
+}
+
+h6 {
+  color: darkcyan;
+  text-align: right;
+}
+
+img {
+  float: right;
+  width: 460px;
+  margin: 10px;
+  border-color: #f8ff14;
+  border-width: 6px;
+  border-style: ridge;
+  border-radius: 50px;
+  height: 300px;
+}
+
+body {
+  background-color: black;
+}
